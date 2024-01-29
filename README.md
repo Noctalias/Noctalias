@@ -1,4 +1,4 @@
-# 👋 **Hello, World!** I'm [Your Name]
+# 👋 **Hello, World!** I'm Nocta
 
 ### 🚀 About Me
 - 👩‍💻 French Computer Science student at UBCL Lyon 1 
