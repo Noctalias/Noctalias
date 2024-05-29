@@ -1,7 +1,7 @@
 # 👋 **Hello, World!** I'm Nocta
 
 ### 🚀 About Me
-- 👩‍💻 IT student in AFIP.
+- 👩‍💻 Soon-to-be IT student in AFIP.
 - 🌱 Currently learning web developpement using HTML, CSS, PHP and JavaScript as well as C/C++ programming.
 - 💡 Always exploring and discovering new things.
 
